@@ -17,7 +17,7 @@ print(user)
 user[-1] = 'etc1'
 print(user)
 
-# remove item from list by index
+# remove item from list by object
 
 user.remove('etc1')
 print(user)
